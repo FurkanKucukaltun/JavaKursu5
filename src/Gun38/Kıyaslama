@@ -1,0 +1,6 @@
+Somut Class       Soyut(abstract) Class      Interface
+tamamı dolu        kısmi dolu                metodlar bos
+def const var      const olabilir            const olamaz
+new yapılabilir    new olamaz                new olamaz
+access modify var  access modify var         public-def      
+tamamen somut      kısmi somut               tamamen soyut
